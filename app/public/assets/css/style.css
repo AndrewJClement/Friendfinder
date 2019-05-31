@@ -1,0 +1,27 @@
+.homeContainer {
+    font-family: 'Sanchez', serif;
+}
+.homeContainer h1 {
+    font-style: italic;
+    color: rgb(98, 18, 226);
+    text-shadow: 2px 2px 1px black;
+}
+.homeContainer .btn {
+    background-color: rgba(252, 215, 66, 1);
+}
+#survey-title-container {
+    padding: 0;
+}
+#survey-header {
+    font-style: italic;
+    font-size: 5rem;
+    text-shadow: 2px 2px 1px gray;
+}
+#newFriendModal .btn:hover {
+    color: white;
+    font-weight: 500;
+} 
+#newFriendPhoto {
+    width: 100%;
+    height: auto;
+}
